@@ -1,0 +1,13 @@
+*.cache/
+*.hw/
+*.runs/
+*.ip_user_files/
+*.sim/
+*.gen/
+*.xpr
+*.jou
+*.log
+*.str
+.Xil/
+.DS_Store
+Thumbs.db
