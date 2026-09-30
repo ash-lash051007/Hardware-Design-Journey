@@ -1,0 +1,10 @@
+# Xilinx Vivado Temporary & Build Artifacts
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.xpr
+*.jou
+*.log
+.Xil/
